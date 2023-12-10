@@ -31,7 +31,7 @@ jobs:
           command: |
             TAG=$CIRCLE_BUILD_NUM
             ((TAG--))
-            git clone https://github.com/lateef-taiwo/Bank-App-Kube-Manifest.git
+            git clone https://github.com/VitaliyKononovich/Bank-App-Kube-Manifest.git
             git config --global user.email "vitaliy.kononovich@gmail.com"
             git config --global user.name "VitaliyKononovich"
             pwd
