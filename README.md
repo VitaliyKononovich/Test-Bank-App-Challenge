@@ -1,4 +1,4 @@
-# Bank-App-Challange   
+# Bank-App-Challange
 Deploy testing automation tool, commission Infrastructure and configure monitoring and alerting integration with grafana
 
 So because it's a bank tech challenge i decided to simulate a simple bank Application built with JavaScript. then running dependencies and framework test i decided to add some react component.
